@@ -1,6 +1,6 @@
-# 👁️ VISIONSPEAK
+# 👁️ IntelliVision
 
-VISIONSPEAK is an AI-powered assistive system designed to help visually impaired individuals navigate and understand their surroundings using real-time object detection and voice feedback.
+IntelliVision is an AI-powered assistive system designed to help visually impaired individuals navigate and understand their surroundings using real-time object detection and voice feedback.
 
 The system uses YOLOv8 for object detection, OpenCV for real-time video processing, and voice assistance to announce detected objects and scene information.
 
@@ -33,7 +33,7 @@ The system uses YOLOv8 for object detection, OpenCV for real-time video processi
 ## 📂 Project Structure
 
 ```bash
-VISIONSPEAK/
+IntelliVision/
 │
 ├── detector.py
 ├── speaker.py
@@ -53,8 +53,8 @@ VISIONSPEAK/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/VISIONSPEAK.git
-cd VISIONSPEAK
+git clone https://github.com/your-username/IntelliVision.git
+cd IntelliVision
 ```
 
 ---
